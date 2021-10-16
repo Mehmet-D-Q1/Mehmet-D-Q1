@@ -7,7 +7,8 @@
 - ⚡ Fun fact: I love to design 3D Models and graphics
 
 
-[![Mehmet'in Github İstatistikleri](https://github-readme-stats.vercel.app/api?username&show_icons=true&theme=radical)
+[![Mehmet'in Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=Mehmet-D-Q1
+&show_icons=true&theme=radical)
 
 
 ### Connect with me:
