@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/mehmet-do%C4%9Fan-/" />][linkedin]
 
 
 <br />
