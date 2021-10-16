@@ -4,9 +4,10 @@
 - 🔭 I’m currently working on Mobile and Web Apps 
 - 🌱 I’m currently learning HTML5, CSS3, Javascript, Java, Kotlin
 - 👯 I’m looking to collaborate with other content creators
-- 🤔 I’m looking for help with ...
 - ⚡ Fun fact: I love to design 3D Models and graphics
 
+
+[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Connect with me:
