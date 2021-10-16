@@ -37,7 +37,7 @@
 [![Illustrator](	https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 [![Siemens NX](	https://www.google.com/url?sa=i&url=https%3A%2F%2Fnxcadtips.com%2F&psig=AOvVaw1sJ0HSew0TwZGFmeL1TpMW&ust=1634471533581000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjknZTvzvMCFQAAAAAdAAAAABAD)](https://www.plm.automation.siemens.com/global/en/products/nx/)
 
-![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnxcadtips.com%2F&psig=AOvVaw1sJ0HSew0TwZGFmeL1TpMW&ust=1634471533581000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjknZTvzvMCFQAAAAAdAAAAABAD)](https://www.plm.automation.siemens.com/global/en/products/nx/)
+![Alt text](/path/to/img.jpg "Optional title")
 
 
 ---
