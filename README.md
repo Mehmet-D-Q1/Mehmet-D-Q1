@@ -10,9 +10,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmet-D-Q1&layout=compact&theme=maroongold)
 
 ### Connect with me:
-[![GitHub](https://img.shields.io/twitter/url?style=social)](https://www.javascript.com/)
-[![Linkedin](https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465=linkedin)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/twitter/url?style=social)](https://www.javascript.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/)
+[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.tweter.com/)
 
 
 ### Languages and Tools:
