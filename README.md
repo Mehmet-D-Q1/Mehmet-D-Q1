@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Mobile and Web Apps 
 - 🌱 I’m currently learning HTML5, CSS3, Javascript, Java, Kotlin
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to design 3D Models and graphics
+- ⚡ Fun fact: I love to design 3D models and graphics
 
 ![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehmet-D-Q1&theme=maroongold&show_icons=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmet-D-Q1&layout=compact&theme=maroongold)
