@@ -1,16 +1,29 @@
-### Hi there 👋
-
+### Hi there, I'm Mehmet 👋
+## I'm a Mechanical Engineer and also candidate a Software Developer!!
 <!--
 **Mehmet-D-Q1/Mehmet-D-Q1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Mobile and Web Apps 
+- 🌱 I’m currently learning HTML5, CSS3, Javascript, Java, Kotlin
+- 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love to design 3D Models and graphics
 -->
+
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/mehmet-do%C4%9Fan-/" />][linkedin]
+
+
+<br />
+
+### Languages and Tools:
+
+<br />
+<br />
+
+---
+
