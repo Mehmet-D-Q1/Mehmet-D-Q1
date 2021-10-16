@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to design 3D Models and graphics
 
-![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehmet-D-Q1&theme=maroongold&show_icons=true)br
+![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehmet-D-Q1&theme=maroongold&show_icons=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmet-D-Q1&layout=compact&theme=maroongold)
 
 ### Connect with me:
