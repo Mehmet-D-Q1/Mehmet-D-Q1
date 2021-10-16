@@ -10,9 +10,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmet-D-Q1&layout=compact&theme=maroongold)
 
 ### Connect with me:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Mehmet-D-Q1/Mehmet-D-Q1/)
-<a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-<br />
+
+
 
 ### Languages and Tools:
 
