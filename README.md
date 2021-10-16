@@ -8,7 +8,7 @@
 
 
 [![Mehmet'in Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=Mehmet-D-Q1
-)](https://github.com/anuraghazra/github-readme-stats)
+)](https://github.com/Mehmet-D-Q1?tab=repositories)
 
 
 ### Connect with me:
