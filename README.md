@@ -10,6 +10,8 @@
 [![Mehmet'in Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=Mehmet-D-Q1
 &show_icons=true&theme=radical)](https://github.com/Mehmet-D-Q1)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 
 ### Connect with me:
 
