@@ -10,7 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmet-D-Q1&layout=compact&theme=maroongold)
 
 ### Connect with me:
-
+[![GitHub](https://img.shields.io/twitter/url?style=social)](https://www.javascript.com/)
 
 
 ### Languages and Tools:
