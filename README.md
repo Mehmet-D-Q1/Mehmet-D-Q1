@@ -10,9 +10,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmet-D-Q1&layout=compact&theme=maroongold)
 
 ### Connect with me:
-
-[<img align="left" alt="Mehmet | LinkedIn" width="22px" href="https://www.linkedin.com/in/mehmet-do%C4%9Fan-/" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+http://github.com - automatic!
+[GitHub](http://github.com)
 <br />
 
 ### Languages and Tools:
