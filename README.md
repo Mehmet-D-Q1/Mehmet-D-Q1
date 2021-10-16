@@ -7,7 +7,8 @@
 - ⚡ Fun fact: I love to design 3D Models and graphics
 
 
-[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Mehmet'in Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=Mehmet-D-Q1
+)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Connect with me:
