@@ -1,5 +1,5 @@
 ### Hi there, I'm Mehmet 👋
-## I'm a Mechanical Engineer and also candidate a Software Developer!!
+## I'm a Mechanical Engineer and also a Software Developer candidate!!
 
 - 🔭 I’m currently working on Mobile and Web Apps 
 - 🌱 I’m currently learning HTML5, CSS3, Javascript, Java, Kotlin
