@@ -1,4 +1,4 @@
-### Hi there, I'm Mehmet 👋
+### Hi there, I'm Mehmet 👋    ![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
 ## I'm a Mechanical Engineer and also a Software Developer candidate!!
 
 - 🔭 I’m currently working on Mobile and Web Apps 
