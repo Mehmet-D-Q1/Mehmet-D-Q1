@@ -1,5 +1,4 @@
-### Hi there, I'm Mehmet 👋    
-![Profile View Counter](https://komarev.com/ghpvc/?username=Mehmet-D-Q1)
+### Hi there, I'm Mehmet 👋                                               ![Profile View Counter](https://komarev.com/ghpvc/?username=Mehmet-D-Q1)
 ## I'm a Mechanical Engineer and also a Software Developer candidate!!
 
 - 🔭 I’m currently working on Mobile and Web Apps 
