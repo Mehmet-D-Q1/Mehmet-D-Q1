@@ -1,8 +1,8 @@
 ### Hi there, I'm Mehmet 👋   
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Mehmet-D-Q1)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?=https://github.com/Mehmet-D-Q1)
 ## I'm a Mechanical Engineer and also a Software Developer candidate!!
 
 - 🔭 I’m currently working on Mobile and Web Apps 
