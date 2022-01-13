@@ -10,7 +10,7 @@
 - ⚡ I love to design 3D models and graphics
 
 ![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehmet-D-Q1&theme=gruvbox&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmet-D-Q1&layout=gruvbox&theme=maroongold)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmet-D-Q1&layout=compact&theme=gruvbox)
 
 ### Connect with me:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mehmet-D-Q1)
