@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning HTML5, CSS3, Javascript, Java, Kotlin
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ I love to design 3D models and graphics
-![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=highcontrast&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 ![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehmet-D-Q1&theme=great-gatsby&show_icons=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmet-D-Q1&layout=compact&theme=maroongold)
 
