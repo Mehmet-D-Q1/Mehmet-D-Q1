@@ -4,8 +4,8 @@
 
 ## I'm a Mechanical Engineer and also a Software Developer candidate!!
 
-- 🔭 I’m currently working on Mobile Applications/Games
-- 🌱 I’m currently learning Unity, Java, Kotlin
+- 🔭 I’m currently working on Mobile Applications
+- 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ I love to design 3D models and graphics
 
